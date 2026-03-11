@@ -15,7 +15,7 @@
         },
         {
             "id": "physics_formula_001",
-            "description": "Introduction to atoms and molecules.",
+            "description": "",
             "file_url": "Workbook_Public_Samples/물리공식/물리공식_문제집.html",
             "cover_image_url": "Workbook_Public_Samples/물리공식/cover.png",
             "tags": [
@@ -25,7 +25,7 @@
         },
         {
             "id": "periodic table_001",
-            "description": "Limits and derivatives.",
+            "description": "",
             "file_url": "Workbook_Public_Samples/주기율표/주기율표_v3.html",
             "cover_image_url": "Workbook_Public_Samples/주기율표/cover.png",
             "tags": [
